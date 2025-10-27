@@ -62,7 +62,7 @@ SciDataViz est une application desktop développée en Python qui permet aux sci
 - **Pickle** - Sérialisation
 - **OS** - Gestion des fichiers
 
-## 📥 Installation
+## Installation
 
 ### Prérequis
 - Python 3.8 ou supérieur
@@ -70,7 +70,8 @@ SciDataViz est une application desktop développée en Python qui permet aux sci
 
 ### Installation
 
-1. **Cloner le repository**
+
+Cloner le repository : 
 ```bash
 git clone https://github.com/hajarelkamri/SciDataViz.git
 cd SciDataViz
