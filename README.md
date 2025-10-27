@@ -91,7 +91,9 @@ numpy>=1.21.0
 matplotlib>=3.5.0
 seaborn>=0.11.0
 pillow>=9.0.0
- Utilisation  : 
+
+
+ Utilisation  :
 Lancement de l'application: 
 
 python SciDataViz.py
@@ -133,3 +135,4 @@ Personnaliser les axes et paramètres
 Export
 
 Générer un dashboard combiné
+
